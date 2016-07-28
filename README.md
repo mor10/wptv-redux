@@ -54,7 +54,7 @@ See full mockup below for visual breakdown. The content hierarchy of the MVP is 
 16. Latest videos (self-explanatory)
  
 ## Contribution
-This repo is open for contributions. Please follow the following guidelines (for now):
+This repo is open for contributions. Submit your pull requests based on the hierarchical structure above and mockups below. When contributing, please follow these guidelines (for now):
 
 - MVP is an MVP. That means wireframing, structure, and content, no fancy graphics.
 - No CSS frameworks (Bootstrap, Foundation, etc)
@@ -81,3 +81,7 @@ In the WPTV project, we can leverage this feature in several different ways:
 Once a video is published and the data pulled into WPTV, we can technically sever ties with YouTube and serve up locally hosted content (cached data + VideoPress video). Relying on YouTube just simplifies the process and provides a more future-friendly, responsive, and accessible experience for the visitor.
 
 In this scenario, YouTube becomes an extension of WPTV that provides new features and a broader reach by allowing YouTube users to discover WPTV content and WPTV content to be properly indexed in search engines thanks to complete transcripts. It's a win-win situation.
+
+## Full mockup
+![Full hierarchical mockup for WPTV Redux](https://cldup.com/VESpUvBBFR.jpg)
+Full hierarchical mockup for WPTV Redux
